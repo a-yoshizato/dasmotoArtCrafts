@@ -12,7 +12,7 @@
 - HTML 5 | CSS | Git
 
 ## Screenshots
-![Result screenshot](./img/webpage.png)
+![Result screenshot](https://content.codecademy.com/courses/freelance-1/unit-2/dasmotos-arts_redline.jpg)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
